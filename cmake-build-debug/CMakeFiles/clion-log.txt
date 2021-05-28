@@ -1,0 +1,49 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\Adam\Documents\GitHub\marczaku-gp20-2021-0524-nim-game-TreeSloths
+-- The C compiler identification is MSVC 19.28.29335.0
+-- The CXX compiler identification is MSVC 19.28.29335.0
+-- Detecting C compiler ABI info
+CMake Error at C:/Program Files/JetBrains/CLion 2021.1.1/bin/cmake/win/share/cmake-3.19/Modules/CMakeDetermineCompilerABI.cmake:48 (try_compile):
+  Failed to open
+
+    C:/Users/Adam/Documents/GitHub/marczaku-gp20-2021-0524-nim-game-TreeSloths/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt
+
+  Permission denied
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2021.1.1/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe
+CMake Error at C:/Program Files/JetBrains/CLion 2021.1.1/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:53 (try_compile):
+  Failed to open
+
+    C:/Users/Adam/Documents/GitHub/marczaku-gp20-2021-0524-nim-game-TreeSloths/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt
+
+  Permission denied
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2021.1.1/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:66 (message):
+  The C compiler
+
+    "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx86/x86/cl.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Adam/Documents/GitHub/marczaku-gp20-2021-0524-nim-game-TreeSloths/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Adam/Documents/GitHub/marczaku-gp20-2021-0524-nim-game-TreeSloths/cmake-build-debug/CMakeFiles/CMakeError.log".
