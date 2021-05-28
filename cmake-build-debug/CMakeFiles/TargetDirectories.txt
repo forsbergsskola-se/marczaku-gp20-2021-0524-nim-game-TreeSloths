@@ -1,0 +1,3 @@
+C:/Users/Adam/Documents/GitHub/marczaku-gp20-2021-0524-nim-game-TreeSloths/cmake-build-debug/CMakeFiles/marczaku_gp20_2021_0524_nim_game_TreeSloths.dir
+C:/Users/Adam/Documents/GitHub/marczaku-gp20-2021-0524-nim-game-TreeSloths/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Adam/Documents/GitHub/marczaku-gp20-2021-0524-nim-game-TreeSloths/cmake-build-debug/CMakeFiles/rebuild_cache.dir
